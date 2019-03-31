@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="?android:attr/colorForeground"
+    tools:context=".Fish">
+
+    <TextView
+        android:id="@+id/textView51"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="14dp"
+        android:text="FISH"
+        android:textColor="@android:color/holo_red_light"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/btnOrd"
+        android:layout_width="111dp"
+        android:layout_height="68dp"
+        android:layout_alignTop="@+id/btnCam"
+        android:layout_centerHorizontal="true"
+        android:background="@android:color/holo_orange_light"
+        android:text="ORDOVICIAN(485–443 Ma)"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnPreDev"
+        android:layout_width="150dp"
+        android:layout_height="68dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="169dp"
+        android:layout_marginStart="20dp"
+        android:background="@android:color/holo_orange_light"
+        android:text="PREDEVONIAN (419-359 ma)"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnPer"
+        android:layout_width="111dp"
+        android:layout_height="68dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignStart="@+id/btnCam"
+        android:layout_marginBottom="93dp"
+        android:background="@android:color/holo_orange_light"
+        android:text="PERMIAN (298–252 Ma)"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnJur"
+        android:layout_width="111dp"
+        android:layout_height="68dp"
+        android:layout_alignTop="@+id/btnPer"
+        android:layout_centerHorizontal="true"
+        android:background="@android:color/holo_orange_light"
+        android:text="JURASSIC (201–145 Ma)"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnCre"
+        android:layout_width="117dp"
+        android:layout_height="68dp"
+        android:layout_alignStart="@+id/btnSil"
+        android:layout_alignTop="@+id/btnJur"
+        android:background="@android:color/holo_orange_light"
+        android:text="CRETACEOUS (145–66    Ma)"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnSil"
+        android:layout_width="111dp"
+        android:layout_height="68dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignTop="@+id/btnOrd"
+        android:layout_marginEnd="10dp"
+        android:background="@android:color/holo_orange_light"
+        android:text="SILURIAN (443–419 Ma)"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnCen"
+        android:layout_width="182dp"
+        android:layout_height="68dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="11dp"
+        android:background="@android:color/holo_orange_light"
+        android:text="cenzoic era           (66 ma to present)"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnCar"
+        android:layout_width="150dp"
+        android:layout_height="68dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignTop="@+id/btnPreDev"
+        android:layout_marginEnd="20dp"
+        android:background="@android:color/holo_orange_light"
+        android:text="CARBONIFEROUS (359–299 Ma)"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnCam"
+        android:layout_width="111dp"
+        android:layout_height="68dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="250dp"
+        android:background="@android:color/holo_orange_light"
+        android:text="CAMBRIAN (541–485 Ma)"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/imageView10"
+        android:layout_width="289dp"
+        android:layout_height="140dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="62dp"
+        app:srcCompat="@drawable/fish" />
+</RelativeLayout>

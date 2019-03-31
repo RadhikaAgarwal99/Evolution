@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="?android:attr/colorForeground"
+    tools:context=".Reptiles">
+
+    <Button
+        android:id="@+id/btnJur"
+        android:layout_width="150dp"
+        android:layout_height="73dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignTop="@+id/btnTri"
+        android:layout_marginEnd="20dp"
+        android:background="@android:color/holo_orange_light"
+        android:text="jurassic (201-145 ma)"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="27dp"
+        tools:layout_editor_absoluteY="237dp" />
+
+    <Button
+        android:id="@+id/btnCre"
+        android:layout_width="150dp"
+        android:layout_height="73dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignStart="@+id/btnTri"
+        android:layout_marginBottom="18dp"
+        android:background="@android:color/holo_orange_light"
+        android:text="cretaceous (145-66 ma)"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="27dp"
+        tools:layout_editor_absoluteY="237dp" />
+
+    <Button
+        android:id="@+id/btnTri"
+        android:layout_width="150dp"
+        android:layout_height="73dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignStart="@+id/btnCar"
+        android:layout_marginBottom="103dp"
+        android:background="@android:color/holo_orange_light"
+        android:text="triassic (251-199 ma)"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="27dp"
+        tools:layout_editor_absoluteY="237dp" />
+
+    <Button
+        android:id="@+id/btnPer"
+        android:layout_width="150dp"
+        android:layout_height="73dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignStart="@+id/btnJur"
+        android:layout_marginBottom="187dp"
+        android:background="@android:color/holo_orange_light"
+        android:text="permian (298-252 ma)"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="27dp"
+        tools:layout_editor_absoluteY="237dp" />
+
+    <Button
+        android:id="@+id/btnCar"
+        android:layout_width="150dp"
+        android:layout_height="73dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignTop="@+id/btnPer"
+        android:layout_marginStart="20dp"
+        android:background="@android:color/holo_orange_light"
+        android:text="carboniferous (359-299 ma)"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="27dp"
+        tools:layout_editor_absoluteY="237dp" />
+
+    <TextView
+        android:id="@+id/tvReptiles"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="22dp"
+        android:text="REPTILES"
+        android:textAlignment="center"
+        android:textColor="@android:color/holo_red_light"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="127dp"
+        tools:layout_editor_absoluteY="33dp" />
+
+    <Button
+        android:id="@+id/btnTer"
+        android:layout_width="150dp"
+        android:layout_height="73dp"
+        android:layout_alignStart="@+id/btnJur"
+        android:layout_alignTop="@+id/btnCre"
+        android:background="@android:color/holo_orange_light"
+        android:text="tertiary            (66 ma to present)"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="27dp"
+        tools:layout_editor_absoluteY="237dp" />
+
+    <ImageView
+        android:id="@+id/imageView7"
+        android:layout_width="269dp"
+        android:layout_height="274dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="13dp"
+        app:srcCompat="@drawable/reptiles" />
+</RelativeLayout>

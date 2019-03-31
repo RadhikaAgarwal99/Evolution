@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="?android:attr/colorForeground"
+    tools:context=".Amphibians">
+
+    <TextView
+        android:id="@+id/textView36"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="13dp"
+        android:text="AMPHIBIANS"
+        android:textColor="@android:color/holo_red_light"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnElgi"
+        android:layout_width="158dp"
+        android:layout_height="85dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignTop="@+id/btnPand"
+        android:layout_marginEnd="24dp"
+        android:background="@android:color/holo_orange_light"
+        android:text="Elginerpeton (368 MYR ago)"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnHyn"
+        android:layout_width="158dp"
+        android:layout_height="85dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignStart="@+id/btnPand"
+        android:layout_marginBottom="105dp"
+        android:background="@android:color/holo_orange_light"
+        android:text="Hynerpeton (365 MYR ago)"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnIch"
+        android:layout_width="158dp"
+        android:layout_height="85dp"
+        android:layout_alignStart="@+id/btnElgi"
+        android:layout_alignTop="@+id/btnHyn"
+        android:background="@android:color/holo_orange_light"
+        android:text="Ichthyostega/Acanthostega (363 MYR ago)"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnPed"
+        android:layout_width="194dp"
+        android:layout_height="85dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="12dp"
+        android:background="@android:color/holo_orange_light"
+        android:text="Pederpes finneyae (350 MYR ago)"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnPand"
+        android:layout_width="158dp"
+        android:layout_height="85dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="202dp"
+        android:layout_marginStart="13dp"
+        android:background="@android:color/holo_orange_light"
+        android:text="Panderichthys (378 MYR ago)"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/imageView8"
+        android:layout_width="228dp"
+        android:layout_height="151dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="63dp"
+        app:srcCompat="@drawable/amphibians" />
+</RelativeLayout>

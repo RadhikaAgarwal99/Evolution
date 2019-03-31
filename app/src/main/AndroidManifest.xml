@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.radhika.hackbenchers3">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Reptiles" />
+        <activity android:name=".Birds" />
+        <activity
+            android:name=".BT1"
+            android:label="@string/title_activity_bt1" />
+        <activity
+            android:name=".BT2"
+            android:label="@string/title_activity_bt2" />
+        <activity
+            android:name=".BT3"
+            android:label="@string/title_activity_bt3" />
+        <activity android:name=".Mammals" />
+        <activity android:name=".Triassic" />
+        <activity android:name=".Jurrasic" />
+        <activity android:name=".Cretaceous" />
+        <activity android:name=".Paleocene" />
+        <activity android:name=".EOCENE" />
+        <activity android:name=".Oligocene" />
+        <activity android:name=".Miocene" />
+        <activity android:name=".Pilocene" />
+        <activity android:name=".Tertiary" />
+        <activity android:name=".RepCretaceous" />
+        <activity android:name=".RepJurassic" />
+        <activity android:name=".RepTriassic" />
+        <activity android:name=".Permian" />
+        <activity android:name=".Carboniferous" />
+        <activity android:name=".Amphibians" />
+        <activity android:name=".AmphPand" />
+        <activity android:name=".Elginerpeton" />
+        <activity android:name=".Hynerpeton" />
+        <activity android:name=".Ichthyostega" />
+        <activity android:name=".Pederpes" />
+        <activity android:name=".Fish" />
+        <activity android:name=".PreMammals" />
+        <activity android:name=".PreTriassic" />
+        <activity android:name=".PreCretaceous" />
+        <activity android:name=".PreJurassic" />
+        <activity android:name=".Cambrian" />
+        <activity android:name=".Ordovician" />
+        <activity android:name=".Silurian" />
+        <activity android:name=".PreDevonian" />
+        <activity android:name=".FishCarboniferous" />
+        <activity android:name=".FishPermian" />
+        <activity android:name=".FishJurassic" />
+        <activity android:name=".FishCretaceous" />
+        <activity android:name=".CenzoicEra"></activity>
+    </application>
+
+</manifest>

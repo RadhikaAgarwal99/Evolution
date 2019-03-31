@@ -1,0 +1,220 @@
+<resources>
+    <string name="app_name">Hackbenchers3</string>
+    <string name="title_activity_bt1">BT1</string>
+    <string name="title_home">Home</string>
+    <string name="title_back">Back</string>
+
+    <string name="BT1">
+            \n
+            • 4 digits in hand\n
+            • Hollow bones, furcula (wish bone)\n
+            • Hollow cylindrical bones\n
+            • Shorter arms\n
+    </string>
+    <string name="title_activity_bt2">BT2</string>
+
+    <string name="BT2">
+        \n
+        • 3 digits in hand\n
+        • Pubic boot\n
+        • Tufted feathers\n
+    </string>
+    <string name="title_activity_bt3">BT3</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="BT3">
+        \n
+        • Semilunate carpal in hand, feathers closed with barbules and hooks, nest brooding\n
+        • Feathers closed and asymmetrical \n
+        • Long arms\n
+        • Toothless beak, fused wing digits, short feathered tail\n
+    </string>
+
+    <string name="triassic">
+        Early mammals were very small, rarely more than a few inches in length. They were mainly herbivores or insectivores.
+        Many of them were partially arboreal and nocturnal. Most, such as the shrew-like Eozostrodon, were egg layers although
+        they clearly had fur and suckled their young. They had three ear bones like modern mammals and a jaw with both mammalian
+        and reptilian characteristics.
+    </string>
+
+    <string name="jurrasic">
+        Some of the largest animals ever to live were dinosaurs. Reptiles were also capable of laying amniotic eggs.
+        Some dinosaurs, were herbivores with long necks balanced by heavy tails. Many were huge. Their skulls were relatively small,
+        with nostrils carried high near their eyes.
+        Adelobasileus, a shrew-like animal, had the differentiated ear and jaw bones of a mammal.
+    </string>
+
+    <string name="creataceous">
+        Mammals were generally small sized. Neither true marsupials nor placentals existed until the very end,but a variety of 
+        non-marsupial metatherians and non-placental eutherians had already begun to diversify. Insects diversified during the 
+        Cretaceous, and ants, termites and some lepidopterans, akin to butterflies and moths, aphids, grasshoppers and wasps 
+        appeared.
+    </string>
+
+    <string name="paleocene">
+        There were no larger sized terrestrial animals. By this time, small insectivorous and rodent-like mammals, medium sized
+        mammals were searching the forests, the first large mammals browsing on the vegetation, and carnivorous mammals stalking
+        their prey evolved. Specializations, such as optimization of the teeth for a special kind of food or adaptations of the
+        limbs to fast running.
+    </string>
+
+    <string name="eocene">
+        Mammals became the dominant land animals during this epoch. Hoofed animals first appeared, including the famous Eohippus
+        and ancestral rhinoceroses and tapirs. Early bats, rabbits, beavers, rats, mice, carnivorous mammals, and whales also
+        evolved. The earliest Eocene Epoch mammals were all small, but larger species, including the elephant-sized titanothere,
+        evolved towards the end.
+    </string>
+
+    <string name="oligocene">
+        The appearance of the first elephants with trunks, early horses was witnessed. Early forms of canids, camels, tayassuids,
+        protoceratids, and anthracotheres appeared, as did birds that possess gaping mouths for catching insects. Diurnal raptors,
+        such as falcons, eagles, and hawks, along with rodents also first appeared. On land, mammals such as horses, deer, camel,
+        elephants, cats, dogs, porcupines, chinchillas and primates began to dominate.
+    </string>
+
+    <string name="miocene">
+        The Apes first evolved, arose. The ancestors of humans had split away from the ancestors of the chimpanzees. Mammals and
+        birds were well-established. Whales and pinnipeds spread. During the late Miocene mammals were more modern, with easily
+        recognizable canids, bears, procyonids, equids, beavers, deer, camelids, and whales.
+    </string>
+
+    <string name="pilocene">
+        Rodents, large mastodons and opossums were widespread , while hoofed animals (camel, deer and horse) declined . Carnivores
+        including the weasel family diversified, dogs and short-faced bears did well.  Cows and antelopes continued
+        diversification and overtook pigs. Giraffes and platypus appeared. Bears, dogs and weasels joined cats, hyenas, civets,
+        forcing hyenas to adapt as scavengers.
+    </string>
+
+    <string name="tertiary">
+        Not only the dinosaurs of the terrestrial environments but also large marine reptiles, marine invertebrate faunas (rudists,
+        belemnites, ammonites, bivalves), planktonic protozoans (foraminiferans), and phytoplankton were prominent. The extinction event
+        at the close of the Cretaceous Period wiped out the dinosaurs, large reptiles, and many other species. This left room for new animals
+        to develop .
+    </string>
+
+    <string name="RepCre">
+        Turtles were also prominent in this age. Ichthyosaurs are an extinct group of dolphin-shaped marine reptiles. Their limbs were modified
+        into paddles that they used for steering through water. Their tails were forked, like those of modern tunas, with bony supports in the lower
+        lobe.Their bodies were long and slim; their heads were big and their teeth were sharp, similar to crocodile and alligator .
+    </string>
+
+    <string name="RepJur">
+        Reptiles had strong ossified skeletons supported by advanced muscular systems for body support and locomotion. Some of the largest animals 
+        ever to live were dinosaurs of the Jurassic Period.Sauropods, the “lizard hipped” dinosaurs, were herbivorous quadrupeds with long necks 
+        balanced by heavy tails. Many were Carnosaurus means “meat-eating dinosaur" , large predators were also common.
+    </string>
+
+    <string name="RepTriassic">
+        This group presumably gave rise to primitive dinosaurs belonging to the saurischian and ornithischian orders. The early dinosaurs were 
+        bipedal, swift-moving, and relatively small. It is also called the “Age of Reptiles.” Gliding lizards are thought to have developed an 
+        airfoil from skin stretched between extended ribs, which would have allowed short glides.
+    </string>
+
+    <string name="Permian">
+        Permian reptile fossils are common in certain locations and include the protorosaurs, aquatic reptiles ancestral to archosaurs (dinosaurs, 
+        crocodiles, and birds).Massively built and large for their day, they reached lengths of 2 to 3 metres.Synapsids (mammal-like reptiles) are 
+        divided into two orders: pelycosaurs and therapsids with a remarkable change in skeletal system.
+    </string>
+
+    <string name="Carboniferous">
+        The shelled eggs of reptiles were better able to withstand dry conditions, and thus did not need to be laid in water or moist ground. The 
+        evolution of reptiles was spurred by the increasingly cold, dry climate of the late Carboniferous period; one of the earliest reptiles yet 
+        identified, Hylonomus, appeared about 315 million years ago, and the giant (almost 10 feet long).
+    </string>
+
+    <string name="Panderichthys">
+        These are lobe-finned fish. These are the only fish whose fin bones fit the tetrapod pattern of humerus, ulna and radius in the forelimb 
+        and femur. This fish also had lungs and nostrils and fish has fins.
+    </string>
+
+    <string name="Elginerpeton">
+        It is a very primitive tetrapod found at Scat Craig. They have  primitive limb bones found. They do not have hands or feet found,
+        the animal is quite tetrapod like in the parts.
+    </string>
+
+    <string name="Hynerpeton">
+        It is known only from the jaw but it is transitional between fish and amphibians. Have more advanced legs and pelvic girdle than. 
+        The coronoid fangs are not present and lacked internal gills. The shape of the pectoral girdle implies both an aquatic and a terrestrial
+        lifestyle.
+    </string>
+
+    <string name="Ichthyostega">
+        Is the first animal with feet but the feet are different than most tetrapod feet. They are much like Acanthostega but has 7 digits on 
+        his hindlimb. His legs were only good for being in water. It has four legs, lungs but still has internal gills . He has 8 digits on his 
+        front leg  seven on his back feet.
+    </string>
+
+    <string name="Pederpes">
+        It has 5 toes on each foot with the exception of a small relict finger/toe on the forepaw. This creature has a primitive stapes, the bone
+        used in hearing.
+    </string>
+
+    <string name="PreTriassic">
+        This small, primitive, egg-laying mammal fed the young with mothers milk. It  short legs, a long, pointed snout, five-toed feet
+        with claws, and a long, hairy tail. It was a triconodont that belonged to the family
+    </string>
+
+    <string name="PreCretaceous">
+        Its had sharp canine teeth and its cheek teeth were wide with triangular crowns. It  was an insectivore that may have also eaten
+        small reptiles and perhaps scavenged. They have a  long-tailed, but a primitive pelvis and hind limbs. It may have had large eyes,
+        and may have been nocturnal.
+    </string>
+
+    <string name="PreJurassic">
+        It was a tiny quadruped with a long tail, a long body, and a long snout. This primitive mammal was about 4 inches (10 cm) long 
+        and weighed only a few ounces.
+    </string>
+
+    <string name="Cambrian">
+        It was a primitive creature with no evidence of eyes and without a well defined head. The flattened body is divided into pairs of
+        segmented muscle blocks, seen as faint vertical line.
+    </string>
+
+    <string name="Ordovician">
+        They lacked heavy bony shield and paired fins, but have highly exaggerated hypocercal tails. They have  bony-armored jawless.
+        They have  a pairs of semicircular canals in the inner ear, as opposed to the three pairs found in the inner ears of jawed vertebrates.
+        They were probably relatively good swimmers, possessing dorsal fins, paired pectoral fins, and a strong tail.
+    </string>
+
+    <string name="Silurian">
+        They have  armoured jawless fish, jawed fish, spiny sharks and ray-finned fish. They do not have bony shield and paired fins, but
+        have highly exaggerated hypocercal tails. It has the combination of both ray-finned and lobe-finned features, although analysis of
+        the totality of its features place it closer to lobe-finned fish.
+    </string>
+
+    <string name="PreDevonian">
+        The start of Devonian saw the first appearance of lobe-finned fish. They are streamlined predator about 50 centimetres long.
+        They have rounded scales and body form indicate that it could have swum quickly through the water to catch prey.
+        Their  bone was composed of particularly dense fibers.
+    </string>
+
+    <string name="FishCarboniferous">
+        These included some, like Psammodus, with crushing pavement-like teeth adapted for grinding the shells of brachiopods, crustaceans,
+        and other marine organisms. Most species of Carboniferous marine fish have been described largely from teeth, fin spines and
+        dermal ossicles, with smaller freshwater fish preserved whole.
+    </string>
+
+    <string name="FishPermian">
+        It had gills but no teeth,and was presumably a filter feeder. It also had only two skull bones and were covered in cubical scales.
+        Each paired pectoral and pelvic fins had one spine, as did the single anal and dorsal fins, giving it a total of six spines,
+        less than half that of many other spiny sharks.
+    </string>
+
+    <string name="FishJurassic">
+        Feeding on smaller fish; in several cases, larger Ichthyodectidae preyed on smaller members of the family. Some species had remarkably
+        large teeth while some had small ones and sucked in their prey. The largest Xiphactinus was 20 feet long.
+    </string>
+
+    <string name="FishCretaceous">
+        They are the part by the long generation interval, tolerance for wide ranges of temperature and salinity, lack of predators due to
+        size, and the abundance of prey items in the benthic environment. One of the genus most notable attributes are the large "fangs" at
+        the front of the upper and lower jaws and on the palatine bones, leading to its misleading nickname among fossil hunters and
+        paleoichthyologists, "the saber-toothed herring"
+    </string>
+
+    <string name="Cenzoic">
+        Found in all oceans it was one of the largest and most powerful predators in vertebrate. They had a profound impact on marine life.
+        In a typical modern flatfish, the head is asymmetric with both eyes on one side of the head.
+    </string>
+</resources>
